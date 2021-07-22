@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
-	<head style="background-image: url(Background.jpg)">
+	<head>
 		<title>ExplodingDucksHopscotch</title>
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 		<link rel="manifest" href="/site.webmanifest">
 	</head>
-	<body>
+	<body style="background-image: url(Background.jpg)">
 		<div id="mainDiv">
 			<h1 class="main" id="titleMain">ExplodingDucks</h1>
-			<p class="main" id="descriptionMain">Hello! I'm ExplodingDucks and this is my webpage. I make games on Hopscotch and some smaller projects that I like to call procrastination. I have a bunch of my projects lined up for you here. Thanks for visiting!</p>
+			<p class="main" id="descriptionMain">Hello! I'm ExplodingDucks and this is my webpage. I make games on Hopscotch and some smaller projects that I like to call procrastination. I have a bunch of my projects lined up for you here. Thanks for visiting! </p>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/rMdSqyORwks?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 	</body>
